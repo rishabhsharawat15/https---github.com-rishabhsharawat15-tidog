@@ -1,0 +1,51 @@
+                            h1 {
+                            font-family: 'Montserrat, sans-serif';
+                            font-size: 3rem;
+                            color: aliceblue;
+                            line-height: 3.5;
+                            font-weight: 900;
+                        }
+                        
+                        #features {
+                            padding: 50px;
+                            background-color: aliceblue;
+                            #this {
+                                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                                color: rgb(44, 11, 11);
+                            }
+                            #cont {
+                                padding: 50px 300px;
+                            }
+                            #photo {
+                                height: 500px;
+                                transform: rotate(25deg);
+                                padding: 0px;
+                            }
+                            /*features*/
+                            .featuress {
+                                padding: 200px;
+                            }
+                            .fav {
+                                text-align: center;
+                                padding: 200;
+                            }
+                            .im {
+                                color: palevioletred;
+                                margin-bottom: 20px;
+                            }
+                            h1 {
+                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                text-align: center;
+                            }
+                            #testimonial {
+                                padding: 7% 15%;
+                                background-color: bisque;
+                            }
+                            #test {
+                                background-color: rgb(236, 80, 80);
+                                padding: 100px;
+                                margin-bottom: 100px;
+                            }
+                            #doggy {
+                                padding: 40px;
+                            }
